@@ -1,0 +1,10 @@
+https://dhis2-pai.mspbs.gov.py/api/39/me
+Consultas a elementos de dato
+https://dhis2-pai.mspbs.gov.py/api/dataElements?query=departamentos
+Uso de paginación
+https://dhis2-pai.mspbs.gov.py/api/dataElements.json?page=2&pageSize=20
+Ordenar por propiedades
+https://dhis2-pai.mspbs.gov.py/api/dataElements.json?order=shortName:desc
+Incluir campos
+https://dhis2-pai.mspbs.gov.py/api/dataElements.json?fields=*
+https://dhis2-pai.mspbs.gov.py/api/dataElements.json?fields=name,href,id
