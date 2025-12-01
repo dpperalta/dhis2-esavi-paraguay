@@ -1,19 +1,13 @@
 {
-    "date": "2024-07-06T13:44:14.838",
     "dashboards": [
         {
-            "created": "2024-04-30T03:46:50.484",
-            "lastUpdated": "2024-06-05T22:27:26.911",
             "name": "Tablero regional ESAVI - Análisis por vacuna",
             "id": "pA1JRCmCnnZ",
             "restrictFilters": false,
-            
             "layout": {
                 "columns": []
             },
-            "itemConfig": {
-                "insertPosition": "END"
-            },
+            "itemConfig": {"insertPosition": "END"},
             "favorites": [],
             "dashboardItems": [
                 {
@@ -67,9 +61,7 @@
                     "y": 6,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "QskbOLhnTTE"
-                    },
+                    "visualization": {"id": "QskbOLhnTTE"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -106,9 +98,7 @@
                     "y": 32,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "a99nQDltTHG"
-                    },
+                    "visualization": {"id": "a99nQDltTHG"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -145,9 +135,7 @@
                     "y": 32,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "qQjYwsLMk52"
-                    },
+                    "visualization": {"id": "qQjYwsLMk52"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -184,9 +172,7 @@
                     "y": 32,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "wGVRXFKJ0N7"
-                    },
+                    "visualization": {"id": "wGVRXFKJ0N7"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -223,9 +209,7 @@
                     "y": 56,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "pClEq9Kazjj"
-                    },
+                    "visualization": {"id": "pClEq9Kazjj"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -262,9 +246,7 @@
                     "y": 56,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "DlUfhXG8ITn"
-                    },
+                    "visualization": {"id": "DlUfhXG8ITn"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -301,9 +283,7 @@
                     "y": 87,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "t6Y9AGEU5jI"
-                    },
+                    "visualization": {"id": "t6Y9AGEU5jI"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -333,9 +313,7 @@
     ],
     "visualizations": [
         {
-            "lastUpdated": "2024-05-16T19:14:55.841",
             "id": "qQjYwsLMk52",
-            "created": "2024-04-30T03:27:41.668",
             "name": "Ranking de vacunas por fecuencia de los ESAVI graves",
             "showData": true,
             "fixRowHeaders": false,
@@ -371,10 +349,7 @@
             "regression": false,
             "colorSet": "BRIGHT",
             "skipRounding": false,
-            "legend": {
-                "showKey": false
-            },
-            
+            "legend": {"showKey": false},
             "fontStyle": {},
             "relativePeriods": {
                 "thisYear": false,
@@ -423,9 +398,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": true
-            },
+            "seriesKey": {"hidden": true},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -443,240 +416,100 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "E3lzKSdX3Li"
-            ],
+            "columnDimensions": ["E3lzKSdX3Li"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "DATA_ELEMENT",
-                    "dataElement": {
-                        "id": "HeiP2JHGQ6R"
-                    }
+                    "dataElement": {"id": "HeiP2JHGQ6R"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "periods": [
-                {
-                    "id": "202101"
-                },
-                {
-                    "id": "202102"
-                },
-                {
-                    "id": "202103"
-                },
-                {
-                    "id": "202104"
-                },
-                {
-                    "id": "202105"
-                },
-                {
-                    "id": "202106"
-                },
-                {
-                    "id": "202107"
-                },
-                {
-                    "id": "202108"
-                },
-                {
-                    "id": "202109"
-                },
-                {
-                    "id": "202110"
-                },
-                {
-                    "id": "202111"
-                },
-                {
-                    "id": "202112"
-                },
-                {
-                    "id": "202201"
-                },
-                {
-                    "id": "202202"
-                },
-                {
-                    "id": "202203"
-                },
-                {
-                    "id": "202204"
-                },
-                {
-                    "id": "202205"
-                },
-                {
-                    "id": "202206"
-                },
-                {
-                    "id": "202207"
-                },
-                {
-                    "id": "202208"
-                },
-                {
-                    "id": "202209"
-                },
-                {
-                    "id": "202210"
-                },
-                {
-                    "id": "202211"
-                },
-                {
-                    "id": "202212"
-                },
-                {
-                    "id": "202301"
-                },
-                {
-                    "id": "202302"
-                },
-                {
-                    "id": "202303"
-                },
-                {
-                    "id": "202304"
-                },
-                {
-                    "id": "202305"
-                },
-                {
-                    "id": "202306"
-                },
-                {
-                    "id": "202307"
-                },
-                {
-                    "id": "202308"
-                },
-                {
-                    "id": "202309"
-                },
-                {
-                    "id": "202310"
-                },
-                {
-                    "id": "202311"
-                },
-                {
-                    "id": "202312"
-                },
-                {
-                    "id": "202401"
-                },
-                {
-                    "id": "202402"
-                },
-                {
-                    "id": "202403"
-                },
-                {
-                    "id": "202404"
-                },
-                {
-                    "id": "202405"
-                },
-                {
-                    "id": "202406"
-                },
-                {
-                    "id": "202407"
-                },
-                {
-                    "id": "202408"
-                },
-                {
-                    "id": "202409"
-                },
-                {
-                    "id": "202410"
-                },
-                {
-                    "id": "202411"
-                },
-                {
-                    "id": "202412"
-                }
+                {"id": "202101"},
+                {"id": "202102"},
+                {"id": "202103"},
+                {"id": "202104"},
+                {"id": "202105"},
+                {"id": "202106"},
+                {"id": "202107"},
+                {"id": "202108"},
+                {"id": "202109"},
+                {"id": "202110"},
+                {"id": "202111"},
+                {"id": "202112"},
+                {"id": "202201"},
+                {"id": "202202"},
+                {"id": "202203"},
+                {"id": "202204"},
+                {"id": "202205"},
+                {"id": "202206"},
+                {"id": "202207"},
+                {"id": "202208"},
+                {"id": "202209"},
+                {"id": "202210"},
+                {"id": "202211"},
+                {"id": "202212"},
+                {"id": "202301"},
+                {"id": "202302"},
+                {"id": "202303"},
+                {"id": "202304"},
+                {"id": "202305"},
+                {"id": "202306"},
+                {"id": "202307"},
+                {"id": "202308"},
+                {"id": "202309"},
+                {"id": "202310"},
+                {"id": "202311"},
+                {"id": "202312"},
+                {"id": "202401"},
+                {"id": "202402"},
+                {"id": "202403"},
+                {"id": "202404"},
+                {"id": "202405"},
+                {"id": "202406"},
+                {"id": "202407"},
+                {"id": "202408"},
+                {"id": "202409"},
+                {"id": "202410"},
+                {"id": "202411"},
+                {"id": "202412"}
             ],
             "organisationUnits": [],
             "categoryDimensions": [
                 {
-                    "category": {
-                        "id": "E3lzKSdX3Li"
-                    },
+                    "category": {"id": "E3lzKSdX3Li"},
                     "categoryOptions": [
-                        {
-                            "id": "qOdSxLlHPT4"
-                        }
+                        {"id": "qOdSxLlHPT4"}
                     ]
                 },
                 {
-                    "category": {
-                        "id": "X8f6OtfsPwJ"
-                    },
+                    "category": {"id": "X8f6OtfsPwJ"},
                     "categoryOptions": [
-                        {
-                            "id": "BGNUsFyD23D"
-                        },
-                        {
-                            "id": "TFJ81Owsfbw"
-                        },
-                        {
-                            "id": "mjulextMl0k"
-                        },
-                        {
-                            "id": "Bxv8GZDPSkf"
-                        },
-                        {
-                            "id": "PpWfjAoVu4A"
-                        },
-                        {
-                            "id": "XAYj6dLJ0zU"
-                        },
-                        {
-                            "id": "FyGgdT5owCt"
-                        },
-                        {
-                            "id": "K2cJkxGcl81"
-                        },
-                        {
-                            "id": "WfvJERkHzci"
-                        },
-                        {
-                            "id": "puKzUsaJjqE"
-                        },
-                        {
-                            "id": "MnmxdAXY65q"
-                        },
-                        {
-                            "id": "EahSQXurwDb"
-                        },
-                        {
-                            "id": "CCgCY9tf9SS"
-                        },
-                        {
-                            "id": "S9QzMHRHrx2"
-                        },
-                        {
-                            "id": "GfpCalWVSOk"
-                        },
-                        {
-                            "id": "ojf1Jkevidk"
-                        }
+                        {"id": "BGNUsFyD23D"},
+                        {"id": "TFJ81Owsfbw"},
+                        {"id": "mjulextMl0k"},
+                        {"id": "Bxv8GZDPSkf"},
+                        {"id": "PpWfjAoVu4A"},
+                        {"id": "XAYj6dLJ0zU"},
+                        {"id": "FyGgdT5owCt"},
+                        {"id": "K2cJkxGcl81"},
+                        {"id": "WfvJERkHzci"},
+                        {"id": "puKzUsaJjqE"},
+                        {"id": "MnmxdAXY65q"},
+                        {"id": "EahSQXurwDb"},
+                        {"id": "CCgCY9tf9SS"},
+                        {"id": "S9QzMHRHrx2"},
+                        {"id": "GfpCalWVSOk"},
+                        {"id": "ojf1Jkevidk"}
                     ]
                 }
             ],
-            "rowDimensions": [
-                "X8f6OtfsPwJ"
-            ],
+            "rowDimensions": ["X8f6OtfsPwJ"],
             "series": [
                 {
                     "dimensionItem": "YHgy9RoyhCt",
@@ -685,9 +518,7 @@
             ]
         },
         {
-            "lastUpdated": "2024-05-15T16:40:13.830",
             "id": "QskbOLhnTTE",
-            "created": "2024-04-30T03:27:41.668",
             "name": "Tendencia de la frecuencia de los ESAVI por mes de notificación y vacuna",
             "showData": true,
             "fixRowHeaders": false,
@@ -711,7 +542,7 @@
             "aggregationType": "DEFAULT",
             "userOrganisationUnitGrandChildren": false,
             "hideSubtitle": true,
-            "description": "",
+            "description": {},
             "hideLegend": false,
             "fixColumnHeaders": false,
             "percentStackedValues": true,
@@ -724,10 +555,7 @@
             "regression": false,
             "colorSet": "DEFAULT",
             "skipRounding": false,
-            "legend": {
-                "showKey": false
-            },
-            
+            "legend": {"showKey": false},
             "fontStyle": {},
             "relativePeriods": {
                 "thisYear": false,
@@ -776,9 +604,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -795,230 +621,94 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "X8f6OtfsPwJ"
-            ],
+            "columnDimensions": ["X8f6OtfsPwJ"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "DATA_ELEMENT",
-                    "dataElement": {
-                        "id": "HeiP2JHGQ6R"
-                    }
+                    "dataElement": {"id": "HeiP2JHGQ6R"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "periods": [
-                {
-                    "id": "202101"
-                },
-                {
-                    "id": "202102"
-                },
-                {
-                    "id": "202103"
-                },
-                {
-                    "id": "202104"
-                },
-                {
-                    "id": "202105"
-                },
-                {
-                    "id": "202106"
-                },
-                {
-                    "id": "202107"
-                },
-                {
-                    "id": "202108"
-                },
-                {
-                    "id": "202109"
-                },
-                {
-                    "id": "202110"
-                },
-                {
-                    "id": "202111"
-                },
-                {
-                    "id": "202112"
-                },
-                {
-                    "id": "202201"
-                },
-                {
-                    "id": "202202"
-                },
-                {
-                    "id": "202203"
-                },
-                {
-                    "id": "202204"
-                },
-                {
-                    "id": "202205"
-                },
-                {
-                    "id": "202206"
-                },
-                {
-                    "id": "202207"
-                },
-                {
-                    "id": "202208"
-                },
-                {
-                    "id": "202209"
-                },
-                {
-                    "id": "202210"
-                },
-                {
-                    "id": "202211"
-                },
-                {
-                    "id": "202212"
-                },
-                {
-                    "id": "202301"
-                },
-                {
-                    "id": "202302"
-                },
-                {
-                    "id": "202303"
-                },
-                {
-                    "id": "202304"
-                },
-                {
-                    "id": "202305"
-                },
-                {
-                    "id": "202306"
-                },
-                {
-                    "id": "202307"
-                },
-                {
-                    "id": "202308"
-                },
-                {
-                    "id": "202309"
-                },
-                {
-                    "id": "202310"
-                },
-                {
-                    "id": "202311"
-                },
-                {
-                    "id": "202312"
-                },
-                {
-                    "id": "202401"
-                },
-                {
-                    "id": "202402"
-                },
-                {
-                    "id": "202403"
-                },
-                {
-                    "id": "202404"
-                },
-                {
-                    "id": "202405"
-                },
-                {
-                    "id": "202406"
-                },
-                {
-                    "id": "202407"
-                },
-                {
-                    "id": "202408"
-                },
-                {
-                    "id": "202409"
-                },
-                {
-                    "id": "202410"
-                },
-                {
-                    "id": "202411"
-                },
-                {
-                    "id": "202412"
-                }
+                {"id": "202101"},
+                {"id": "202102"},
+                {"id": "202103"},
+                {"id": "202104"},
+                {"id": "202105"},
+                {"id": "202106"},
+                {"id": "202107"},
+                {"id": "202108"},
+                {"id": "202109"},
+                {"id": "202110"},
+                {"id": "202111"},
+                {"id": "202112"},
+                {"id": "202201"},
+                {"id": "202202"},
+                {"id": "202203"},
+                {"id": "202204"},
+                {"id": "202205"},
+                {"id": "202206"},
+                {"id": "202207"},
+                {"id": "202208"},
+                {"id": "202209"},
+                {"id": "202210"},
+                {"id": "202211"},
+                {"id": "202212"},
+                {"id": "202301"},
+                {"id": "202302"},
+                {"id": "202303"},
+                {"id": "202304"},
+                {"id": "202305"},
+                {"id": "202306"},
+                {"id": "202307"},
+                {"id": "202308"},
+                {"id": "202309"},
+                {"id": "202310"},
+                {"id": "202311"},
+                {"id": "202312"},
+                {"id": "202401"},
+                {"id": "202402"},
+                {"id": "202403"},
+                {"id": "202404"},
+                {"id": "202405"},
+                {"id": "202406"},
+                {"id": "202407"},
+                {"id": "202408"},
+                {"id": "202409"},
+                {"id": "202410"},
+                {"id": "202411"},
+                {"id": "202412"}
             ],
             "organisationUnits": [],
             "categoryDimensions": [
                 {
-                    "category": {
-                        "id": "X8f6OtfsPwJ"
-                    },
+                    "category": {"id": "X8f6OtfsPwJ"},
                     "categoryOptions": [
-                        {
-                            "id": "BGNUsFyD23D"
-                        },
-                        {
-                            "id": "TFJ81Owsfbw"
-                        },
-                        {
-                            "id": "mjulextMl0k"
-                        },
-                        {
-                            "id": "Bxv8GZDPSkf"
-                        },
-                        {
-                            "id": "PpWfjAoVu4A"
-                        },
-                        {
-                            "id": "XAYj6dLJ0zU"
-                        },
-                        {
-                            "id": "FyGgdT5owCt"
-                        },
-                        {
-                            "id": "K2cJkxGcl81"
-                        },
-                        {
-                            "id": "WfvJERkHzci"
-                        },
-                        {
-                            "id": "puKzUsaJjqE"
-                        },
-                        {
-                            "id": "MnmxdAXY65q"
-                        },
-                        {
-                            "id": "EahSQXurwDb"
-                        },
-                        {
-                            "id": "CCgCY9tf9SS"
-                        },
-                        {
-                            "id": "S9QzMHRHrx2"
-                        },
-                        {
-                            "id": "GfpCalWVSOk"
-                        },
-                        {
-                            "id": "ojf1Jkevidk"
-                        }
+                        {"id": "BGNUsFyD23D"},
+                        {"id": "TFJ81Owsfbw"},
+                        {"id": "mjulextMl0k"},
+                        {"id": "Bxv8GZDPSkf"},
+                        {"id": "PpWfjAoVu4A"},
+                        {"id": "XAYj6dLJ0zU"},
+                        {"id": "FyGgdT5owCt"},
+                        {"id": "K2cJkxGcl81"},
+                        {"id": "WfvJERkHzci"},
+                        {"id": "puKzUsaJjqE"},
+                        {"id": "MnmxdAXY65q"},
+                        {"id": "EahSQXurwDb"},
+                        {"id": "CCgCY9tf9SS"},
+                        {"id": "S9QzMHRHrx2"},
+                        {"id": "GfpCalWVSOk"},
+                        {"id": "ojf1Jkevidk"}
                     ]
                 }
             ],
-            "rowDimensions": [
-                "pe"
-            ],
+            "rowDimensions": ["pe"],
             "series": [
                 {
                     "dimensionItem": "YHgy9RoyhCt",
@@ -1027,9 +717,7 @@
             ]
         },
         {
-            "lastUpdated": "2024-05-16T19:14:42.910",
             "id": "a99nQDltTHG",
-            "created": "2024-04-30T03:27:41.668",
             "name": "Ranking de vacunas por fecuencia de los ESAVI",
             "showData": true,
             "fixRowHeaders": false,
@@ -1065,10 +753,7 @@
             "regression": false,
             "colorSet": "DEFAULT",
             "skipRounding": false,
-            "legend": {
-                "showKey": false
-            },
-            
+            "legend": {"showKey": false},
             "fontStyle": {},
             "relativePeriods": {
                 "thisYear": true,
@@ -1117,9 +802,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": true
-            },
+            "seriesKey": {"hidden": true},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1136,18 +819,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "ou"
-            ],
+            "columnDimensions": ["ou"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "DATA_ELEMENT",
-                    "dataElement": {
-                        "id": "HeiP2JHGQ6R"
-                    }
+                    "dataElement": {"id": "HeiP2JHGQ6R"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -1157,64 +836,28 @@
             "organisationUnits": [],
             "categoryDimensions": [
                 {
-                    "category": {
-                        "id": "X8f6OtfsPwJ"
-                    },
+                    "category": {"id": "X8f6OtfsPwJ"},
                     "categoryOptions": [
-                        {
-                            "id": "BGNUsFyD23D"
-                        },
-                        {
-                            "id": "TFJ81Owsfbw"
-                        },
-                        {
-                            "id": "mjulextMl0k"
-                        },
-                        {
-                            "id": "Bxv8GZDPSkf"
-                        },
-                        {
-                            "id": "PpWfjAoVu4A"
-                        },
-                        {
-                            "id": "XAYj6dLJ0zU"
-                        },
-                        {
-                            "id": "FyGgdT5owCt"
-                        },
-                        {
-                            "id": "K2cJkxGcl81"
-                        },
-                        {
-                            "id": "WfvJERkHzci"
-                        },
-                        {
-                            "id": "puKzUsaJjqE"
-                        },
-                        {
-                            "id": "MnmxdAXY65q"
-                        },
-                        {
-                            "id": "EahSQXurwDb"
-                        },
-                        {
-                            "id": "CCgCY9tf9SS"
-                        },
-                        {
-                            "id": "S9QzMHRHrx2"
-                        },
-                        {
-                            "id": "GfpCalWVSOk"
-                        },
-                        {
-                            "id": "ojf1Jkevidk"
-                        }
+                        {"id": "BGNUsFyD23D"},
+                        {"id": "TFJ81Owsfbw"},
+                        {"id": "mjulextMl0k"},
+                        {"id": "Bxv8GZDPSkf"},
+                        {"id": "PpWfjAoVu4A"},
+                        {"id": "XAYj6dLJ0zU"},
+                        {"id": "FyGgdT5owCt"},
+                        {"id": "K2cJkxGcl81"},
+                        {"id": "WfvJERkHzci"},
+                        {"id": "puKzUsaJjqE"},
+                        {"id": "MnmxdAXY65q"},
+                        {"id": "EahSQXurwDb"},
+                        {"id": "CCgCY9tf9SS"},
+                        {"id": "S9QzMHRHrx2"},
+                        {"id": "GfpCalWVSOk"},
+                        {"id": "ojf1Jkevidk"}
                     ]
                 }
             ],
-            "rowDimensions": [
-                "X8f6OtfsPwJ"
-            ],
+            "rowDimensions": ["X8f6OtfsPwJ"],
             "series": [
                 {
                     "dimensionItem": "YHgy9RoyhCt",
@@ -1223,9 +866,7 @@
             ]
         },
         {
-            "lastUpdated": "2024-05-16T18:55:57.161",
             "id": "DlUfhXG8ITn",
-            "created": "2024-04-30T03:27:41.668",
             "name": "Distribución de frecuencia eventos por vacuna y grupo de edad",
             "showData": true,
             "fixRowHeaders": false,
@@ -1261,10 +902,7 @@
             "regression": false,
             "colorSet": "DEFAULT",
             "skipRounding": false,
-            "legend": {
-                "showKey": false
-            },
-            
+            "legend": {"showKey": false},
             "fontStyle": {},
             "relativePeriods": {
                 "thisYear": true,
@@ -1313,9 +951,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1342,18 +978,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "r8mxkfMszT0"
-            ],
+            "columnDimensions": ["r8mxkfMszT0"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "DATA_ELEMENT",
-                    "dataElement": {
-                        "id": "HeiP2JHGQ6R"
-                    }
+                    "dataElement": {"id": "HeiP2JHGQ6R"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -1363,95 +995,41 @@
             "organisationUnits": [],
             "categoryDimensions": [
                 {
-                    "category": {
-                        "id": "r8mxkfMszT0"
-                    },
+                    "category": {"id": "r8mxkfMszT0"},
                     "categoryOptions": [
-                        {
-                            "id": "YZowDMGPZiS"
-                        },
-                        {
-                            "id": "ocUo1SHzmsE"
-                        },
-                        {
-                            "id": "Dab7glBUfkU"
-                        },
-                        {
-                            "id": "Gpr45O5MqBN"
-                        },
-                        {
-                            "id": "PaYDBF3cLdR"
-                        },
-                        {
-                            "id": "FXlYp90D7ar"
-                        },
-                        {
-                            "id": "aruFwaYr3r7"
-                        },
-                        {
-                            "id": "p46elQQdyC0"
-                        }
+                        {"id": "YZowDMGPZiS"},
+                        {"id": "ocUo1SHzmsE"},
+                        {"id": "Dab7glBUfkU"},
+                        {"id": "Gpr45O5MqBN"},
+                        {"id": "PaYDBF3cLdR"},
+                        {"id": "FXlYp90D7ar"},
+                        {"id": "aruFwaYr3r7"},
+                        {"id": "p46elQQdyC0"}
                     ]
                 },
                 {
-                    "category": {
-                        "id": "X8f6OtfsPwJ"
-                    },
+                    "category": {"id": "X8f6OtfsPwJ"},
                     "categoryOptions": [
-                        {
-                            "id": "BGNUsFyD23D"
-                        },
-                        {
-                            "id": "TFJ81Owsfbw"
-                        },
-                        {
-                            "id": "mjulextMl0k"
-                        },
-                        {
-                            "id": "Bxv8GZDPSkf"
-                        },
-                        {
-                            "id": "PpWfjAoVu4A"
-                        },
-                        {
-                            "id": "XAYj6dLJ0zU"
-                        },
-                        {
-                            "id": "FyGgdT5owCt"
-                        },
-                        {
-                            "id": "K2cJkxGcl81"
-                        },
-                        {
-                            "id": "WfvJERkHzci"
-                        },
-                        {
-                            "id": "puKzUsaJjqE"
-                        },
-                        {
-                            "id": "MnmxdAXY65q"
-                        },
-                        {
-                            "id": "EahSQXurwDb"
-                        },
-                        {
-                            "id": "CCgCY9tf9SS"
-                        },
-                        {
-                            "id": "S9QzMHRHrx2"
-                        },
-                        {
-                            "id": "GfpCalWVSOk"
-                        },
-                        {
-                            "id": "ojf1Jkevidk"
-                        }
+                        {"id": "BGNUsFyD23D"},
+                        {"id": "TFJ81Owsfbw"},
+                        {"id": "mjulextMl0k"},
+                        {"id": "Bxv8GZDPSkf"},
+                        {"id": "PpWfjAoVu4A"},
+                        {"id": "XAYj6dLJ0zU"},
+                        {"id": "FyGgdT5owCt"},
+                        {"id": "K2cJkxGcl81"},
+                        {"id": "WfvJERkHzci"},
+                        {"id": "puKzUsaJjqE"},
+                        {"id": "MnmxdAXY65q"},
+                        {"id": "EahSQXurwDb"},
+                        {"id": "CCgCY9tf9SS"},
+                        {"id": "S9QzMHRHrx2"},
+                        {"id": "GfpCalWVSOk"},
+                        {"id": "ojf1Jkevidk"}
                     ]
                 }
             ],
-            "rowDimensions": [
-                "X8f6OtfsPwJ"
-            ],
+            "rowDimensions": ["X8f6OtfsPwJ"],
             "series": [
                 {
                     "dimensionItem": "YZowDMGPZiS",
@@ -1488,9 +1066,7 @@
             ]
         },
         {
-            "lastUpdated": "2024-05-16T19:15:10.574",
             "id": "wGVRXFKJ0N7",
-            "created": "2024-04-30T03:27:41.668",
             "name": "Ranking de vacunas por fecuencia de los ESAVI no graves",
             "showData": true,
             "fixRowHeaders": false,
@@ -1526,10 +1102,7 @@
             "regression": false,
             "colorSet": "DARK",
             "skipRounding": false,
-            "legend": {
-                "showKey": false
-            },
-            
+            "legend": {"showKey": false},
             "fontStyle": {},
             "relativePeriods": {
                 "thisYear": true,
@@ -1578,9 +1151,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": true
-            },
+            "seriesKey": {"hidden": true},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1598,18 +1169,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "E3lzKSdX3Li"
-            ],
+            "columnDimensions": ["E3lzKSdX3Li"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "DATA_ELEMENT",
-                    "dataElement": {
-                        "id": "HeiP2JHGQ6R"
-                    }
+                    "dataElement": {"id": "HeiP2JHGQ6R"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -1619,74 +1186,34 @@
             "organisationUnits": [],
             "categoryDimensions": [
                 {
-                    "category": {
-                        "id": "E3lzKSdX3Li"
-                    },
+                    "category": {"id": "E3lzKSdX3Li"},
                     "categoryOptions": [
-                        {
-                            "id": "oT3MZop88wO"
-                        }
+                        {"id": "oT3MZop88wO"}
                     ]
                 },
                 {
-                    "category": {
-                        "id": "X8f6OtfsPwJ"
-                    },
+                    "category": {"id": "X8f6OtfsPwJ"},
                     "categoryOptions": [
-                        {
-                            "id": "BGNUsFyD23D"
-                        },
-                        {
-                            "id": "TFJ81Owsfbw"
-                        },
-                        {
-                            "id": "mjulextMl0k"
-                        },
-                        {
-                            "id": "Bxv8GZDPSkf"
-                        },
-                        {
-                            "id": "PpWfjAoVu4A"
-                        },
-                        {
-                            "id": "XAYj6dLJ0zU"
-                        },
-                        {
-                            "id": "FyGgdT5owCt"
-                        },
-                        {
-                            "id": "K2cJkxGcl81"
-                        },
-                        {
-                            "id": "WfvJERkHzci"
-                        },
-                        {
-                            "id": "puKzUsaJjqE"
-                        },
-                        {
-                            "id": "MnmxdAXY65q"
-                        },
-                        {
-                            "id": "EahSQXurwDb"
-                        },
-                        {
-                            "id": "CCgCY9tf9SS"
-                        },
-                        {
-                            "id": "S9QzMHRHrx2"
-                        },
-                        {
-                            "id": "GfpCalWVSOk"
-                        },
-                        {
-                            "id": "ojf1Jkevidk"
-                        }
+                        {"id": "BGNUsFyD23D"},
+                        {"id": "TFJ81Owsfbw"},
+                        {"id": "mjulextMl0k"},
+                        {"id": "Bxv8GZDPSkf"},
+                        {"id": "PpWfjAoVu4A"},
+                        {"id": "XAYj6dLJ0zU"},
+                        {"id": "FyGgdT5owCt"},
+                        {"id": "K2cJkxGcl81"},
+                        {"id": "WfvJERkHzci"},
+                        {"id": "puKzUsaJjqE"},
+                        {"id": "MnmxdAXY65q"},
+                        {"id": "EahSQXurwDb"},
+                        {"id": "CCgCY9tf9SS"},
+                        {"id": "S9QzMHRHrx2"},
+                        {"id": "GfpCalWVSOk"},
+                        {"id": "ojf1Jkevidk"}
                     ]
                 }
             ],
-            "rowDimensions": [
-                "X8f6OtfsPwJ"
-            ],
+            "rowDimensions": ["X8f6OtfsPwJ"],
             "series": [
                 {
                     "dimensionItem": "YHgy9RoyhCt",
@@ -1695,9 +1222,7 @@
             ]
         },
         {
-            "lastUpdated": "2024-05-15T16:43:48.196",
             "id": "pClEq9Kazjj",
-            "created": "2024-04-30T03:27:41.668",
             "name": "Ranking de vacunas por fecuencia de los ESAVI  y sexo",
             "showData": true,
             "fixRowHeaders": false,
@@ -1721,7 +1246,7 @@
             "aggregationType": "DEFAULT",
             "userOrganisationUnitGrandChildren": false,
             "hideSubtitle": true,
-            "description": "",
+            "description": {},
             "hideLegend": false,
             "fixColumnHeaders": false,
             "percentStackedValues": false,
@@ -1734,10 +1259,7 @@
             "regression": false,
             "colorSet": "DEFAULT",
             "skipRounding": false,
-            "legend": {
-                "showKey": false
-            },
-            
+            "legend": {"showKey": false},
             "fontStyle": {},
             "relativePeriods": {
                 "thisYear": true,
@@ -1786,9 +1308,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1806,18 +1326,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "j53Jq1FtPc5"
-            ],
+            "columnDimensions": ["j53Jq1FtPc5"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "DATA_ELEMENT",
-                    "dataElement": {
-                        "id": "HeiP2JHGQ6R"
-                    }
+                    "dataElement": {"id": "HeiP2JHGQ6R"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -1827,77 +1343,35 @@
             "organisationUnits": [],
             "categoryDimensions": [
                 {
-                    "category": {
-                        "id": "j53Jq1FtPc5"
-                    },
+                    "category": {"id": "j53Jq1FtPc5"},
                     "categoryOptions": [
-                        {
-                            "id": "tSOSzqF40Ws"
-                        },
-                        {
-                            "id": "KGnQbRIQ0L9"
-                        }
+                        {"id": "tSOSzqF40Ws"},
+                        {"id": "KGnQbRIQ0L9"}
                     ]
                 },
                 {
-                    "category": {
-                        "id": "X8f6OtfsPwJ"
-                    },
+                    "category": {"id": "X8f6OtfsPwJ"},
                     "categoryOptions": [
-                        {
-                            "id": "BGNUsFyD23D"
-                        },
-                        {
-                            "id": "TFJ81Owsfbw"
-                        },
-                        {
-                            "id": "mjulextMl0k"
-                        },
-                        {
-                            "id": "Bxv8GZDPSkf"
-                        },
-                        {
-                            "id": "PpWfjAoVu4A"
-                        },
-                        {
-                            "id": "XAYj6dLJ0zU"
-                        },
-                        {
-                            "id": "FyGgdT5owCt"
-                        },
-                        {
-                            "id": "K2cJkxGcl81"
-                        },
-                        {
-                            "id": "WfvJERkHzci"
-                        },
-                        {
-                            "id": "puKzUsaJjqE"
-                        },
-                        {
-                            "id": "MnmxdAXY65q"
-                        },
-                        {
-                            "id": "EahSQXurwDb"
-                        },
-                        {
-                            "id": "CCgCY9tf9SS"
-                        },
-                        {
-                            "id": "S9QzMHRHrx2"
-                        },
-                        {
-                            "id": "GfpCalWVSOk"
-                        },
-                        {
-                            "id": "ojf1Jkevidk"
-                        }
+                        {"id": "BGNUsFyD23D"},
+                        {"id": "TFJ81Owsfbw"},
+                        {"id": "mjulextMl0k"},
+                        {"id": "Bxv8GZDPSkf"},
+                        {"id": "PpWfjAoVu4A"},
+                        {"id": "XAYj6dLJ0zU"},
+                        {"id": "FyGgdT5owCt"},
+                        {"id": "K2cJkxGcl81"},
+                        {"id": "WfvJERkHzci"},
+                        {"id": "puKzUsaJjqE"},
+                        {"id": "MnmxdAXY65q"},
+                        {"id": "EahSQXurwDb"},
+                        {"id": "CCgCY9tf9SS"},
+                        {"id": "S9QzMHRHrx2"},
+                        {"id": "GfpCalWVSOk"},
+                        {"id": "ojf1Jkevidk"}
                     ]
                 }
             ],
-            "rowDimensions": [
-                "X8f6OtfsPwJ"
-            ],
+            "rowDimensions": ["X8f6OtfsPwJ"],
             "series": [
                 {
                     "dimensionItem": "YHgy9RoyhCt",
@@ -1906,9 +1380,7 @@
             ]
         },
         {
-            "lastUpdated": "2024-05-16T19:14:06.948",
             "id": "t6Y9AGEU5jI",
-            "created": "2024-04-30T03:27:41.668",
             "name": "Ranking de vacunas por fecuencia de los ESAVI en mujeres embarazadas",
             "showData": true,
             "fixRowHeaders": false,
@@ -1944,10 +1416,7 @@
             "regression": false,
             "colorSet": "DEFAULT",
             "skipRounding": false,
-            "legend": {
-                "showKey": false
-            },
-            
+            "legend": {"showKey": false},
             "fontStyle": {},
             "relativePeriods": {
                 "thisYear": true,
@@ -1996,9 +1465,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": true
-            },
+            "seriesKey": {"hidden": true},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -2016,18 +1483,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "I26bga5WcD7"
-            ],
+            "columnDimensions": ["I26bga5WcD7"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "DATA_ELEMENT",
-                    "dataElement": {
-                        "id": "HeiP2JHGQ6R"
-                    }
+                    "dataElement": {"id": "HeiP2JHGQ6R"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -2037,74 +1500,34 @@
             "organisationUnits": [],
             "categoryDimensions": [
                 {
-                    "category": {
-                        "id": "I26bga5WcD7"
-                    },
+                    "category": {"id": "I26bga5WcD7"},
                     "categoryOptions": [
-                        {
-                            "id": "LzbnsM4f8KT"
-                        }
+                        {"id": "LzbnsM4f8KT"}
                     ]
                 },
                 {
-                    "category": {
-                        "id": "X8f6OtfsPwJ"
-                    },
+                    "category": {"id": "X8f6OtfsPwJ"},
                     "categoryOptions": [
-                        {
-                            "id": "BGNUsFyD23D"
-                        },
-                        {
-                            "id": "TFJ81Owsfbw"
-                        },
-                        {
-                            "id": "mjulextMl0k"
-                        },
-                        {
-                            "id": "Bxv8GZDPSkf"
-                        },
-                        {
-                            "id": "PpWfjAoVu4A"
-                        },
-                        {
-                            "id": "XAYj6dLJ0zU"
-                        },
-                        {
-                            "id": "FyGgdT5owCt"
-                        },
-                        {
-                            "id": "K2cJkxGcl81"
-                        },
-                        {
-                            "id": "WfvJERkHzci"
-                        },
-                        {
-                            "id": "puKzUsaJjqE"
-                        },
-                        {
-                            "id": "MnmxdAXY65q"
-                        },
-                        {
-                            "id": "EahSQXurwDb"
-                        },
-                        {
-                            "id": "CCgCY9tf9SS"
-                        },
-                        {
-                            "id": "S9QzMHRHrx2"
-                        },
-                        {
-                            "id": "GfpCalWVSOk"
-                        },
-                        {
-                            "id": "ojf1Jkevidk"
-                        }
+                        {"id": "BGNUsFyD23D"},
+                        {"id": "TFJ81Owsfbw"},
+                        {"id": "mjulextMl0k"},
+                        {"id": "Bxv8GZDPSkf"},
+                        {"id": "PpWfjAoVu4A"},
+                        {"id": "XAYj6dLJ0zU"},
+                        {"id": "FyGgdT5owCt"},
+                        {"id": "K2cJkxGcl81"},
+                        {"id": "WfvJERkHzci"},
+                        {"id": "puKzUsaJjqE"},
+                        {"id": "MnmxdAXY65q"},
+                        {"id": "EahSQXurwDb"},
+                        {"id": "CCgCY9tf9SS"},
+                        {"id": "S9QzMHRHrx2"},
+                        {"id": "GfpCalWVSOk"},
+                        {"id": "ojf1Jkevidk"}
                     ]
                 }
             ],
-            "rowDimensions": [
-                "X8f6OtfsPwJ"
-            ],
+            "rowDimensions": ["X8f6OtfsPwJ"],
             "series": [
                 {
                     "dimensionItem": "YHgy9RoyhCt",

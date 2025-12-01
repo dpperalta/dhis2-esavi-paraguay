@@ -1,8 +1,6 @@
 {
     "dashboards": [
         {
-            "created": "2023-09-05T18:28:09.728",
-            "lastUpdated": "2024-06-05T22:15:51.983",
             "name": "Indicadores Generales",
             "id": "KAou8T0SQSs",
             "restrictFilters": false,
@@ -22,9 +20,7 @@
                     "y": 6,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "ZutD4WEjeHe"
-                    },
+                    "visualization": {"id": "ZutD4WEjeHe"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -69,17 +65,13 @@
                         "delete": true,
                         "manage": true
                     },
-                    "eventVisualization": {
-                        "id": "fjtO6hJVPNb"
-                    },
+                    "eventVisualization": {"id": "fjtO6hJVPNb"},
                     "sharing": {
                         "userGroups": {},
                         "external": false,
                         "users": {}
                     },
-                    "eventChart": {
-                        "id": "fjtO6hJVPNb"
-                    },
+                    "eventChart": {"id": "fjtO6hJVPNb"},
                     "favorites": [],
                     "reports": [],
                     "translations": [],
@@ -103,9 +95,7 @@
                     "y": 35,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "zRkCSeABFtR"
-                    },
+                    "visualization": {"id": "zRkCSeABFtR"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -142,9 +132,7 @@
                     "y": 12,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "W5uaq1Ir1La"
-                    },
+                    "visualization": {"id": "W5uaq1Ir1La"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -181,9 +169,7 @@
                     "y": 12,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "M48HTL7911p"
-                    },
+                    "visualization": {"id": "M48HTL7911p"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -220,9 +206,7 @@
                     "y": 6,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "hdhvsUTagxS"
-                    },
+                    "visualization": {"id": "hdhvsUTagxS"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -259,9 +243,7 @@
                     "y": 6,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "hVuUVjL7acW"
-                    },
+                    "visualization": {"id": "hVuUVjL7acW"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -298,9 +280,7 @@
                     "y": 6,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "dvTFUrlfKT5"
-                    },
+                    "visualization": {"id": "dvTFUrlfKT5"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -337,9 +317,7 @@
                     "y": 6,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "JQgcOyuC3Ns"
-                    },
+                    "visualization": {"id": "JQgcOyuC3Ns"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -376,9 +354,7 @@
                     "y": 6,
                     "interpretationLikeCount": 0,
                     "favorite": false,
-                    "visualization": {
-                        "id": "Jd1jI5ti5IC"
-                    },
+                    "visualization": {"id": "Jd1jI5ti5IC"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -423,9 +399,7 @@
                         "delete": true,
                         "manage": true
                     },
-                    "map": {
-                        "id": "ojRr7tKBOlm"
-                    },
+                    "map": {"id": "ojRr7tKBOlm"},
                     "sharing": {
                         "userGroups": {},
                         "external": false,
@@ -484,9 +458,7 @@
     ],
     "eventVisualizations": [
         {
-            "lastUpdated": "2024-05-15T16:11:22.413",
             "id": "fjtO6hJVPNb",
-            "created": "2023-09-26T17:30:53.169",
             "name": "Frecuencia de los ESAVI por desenlace",
             "showData": true,
             "userOrganisationUnitChildren": false,
@@ -605,9 +577,7 @@
     ],
     "maps": [
         {
-            "lastUpdated": "2024-05-15T16:12:31.445",
             "id": "ojRr7tKBOlm",
-            "created": "2024-05-02T21:43:27.956",
             "name": "Mapa de notificaciones de los ESAVI por notificador",
             "basemap": "osmLight",
             "favorites": [],
@@ -643,9 +613,7 @@
                     "hideSubtitle": false,
                     "externalAccess": false,
                     "digitGroupSeparator": "SPACE",
-                    "program": {
-                        "id": "aFGRl00bzio"
-                    },
+                    "program": {"id": "aFGRl00bzio"},
                     "access": {
                         "read": true,
                         "update": true,
@@ -672,18 +640,14 @@
                     "categoryDimensions": [],
                     "itemOrganisationUnitGroups": [],
                     "programIndicatorDimensions": [],
-                    "columnDimensions": [
-                        "dx"
-                    ],
+                    "columnDimensions": ["dx"],
                     "attributeValues": [],
                     "userAccesses": [],
                     "favorites": [],
                     "dataDimensionItems": [
                         {
                             "dataDimensionItemType": "PROGRAM_INDICATOR",
-                            "programIndicator": {
-                                "id": "pT9yI8edS3X"
-                            }
+                            "programIndicator": {"id": "pT9yI8edS3X"}
                         }
                     ],
                     "categoryOptionGroupSetDimensions": [],
@@ -700,9 +664,7 @@
     ],
     "eventCharts": [
         {
-            "lastUpdated": "2024-05-15T16:11:22.413",
             "id": "fjtO6hJVPNb",
-            "created": "2023-09-26T17:30:53.169",
             "name": "Frecuencia de los ESAVI por desenlace",
             "showData": true,
             "userOrganisationUnitChildren": false,
@@ -812,9 +774,7 @@
     ],
     "visualizations": [
         {
-            "lastUpdated": "2024-05-16T19:11:15.244",
             "id": "W5uaq1Ir1La",
-            "created": "2023-09-20T16:39:25.732",
             "name": "Tendencia de la frecuencia de los ESAVI por mes de notificación",
             "showData": true,
             "fixRowHeaders": false,
@@ -903,9 +863,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": true
-            },
+            "seriesKey": {"hidden": true},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -916,143 +874,63 @@
             "axes": [],
             "translations": [],
             "yearlySeries": [],
-            "filterDimensions": [
-                "ou"
-            ],
+            "filterDimensions": ["ou"],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "pT9yI8edS3X"
-                    }
+                    "programIndicator": {"id": "pT9yI8edS3X"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "periods": [
-                {
-                    "id": "202201"
-                },
-                {
-                    "id": "202202"
-                },
-                {
-                    "id": "202203"
-                },
-                {
-                    "id": "202204"
-                },
-                {
-                    "id": "202205"
-                },
-                {
-                    "id": "202206"
-                },
-                {
-                    "id": "202207"
-                },
-                {
-                    "id": "202208"
-                },
-                {
-                    "id": "202209"
-                },
-                {
-                    "id": "202210"
-                },
-                {
-                    "id": "202211"
-                },
-                {
-                    "id": "202212"
-                },
-                {
-                    "id": "202301"
-                },
-                {
-                    "id": "202302"
-                },
-                {
-                    "id": "202303"
-                },
-                {
-                    "id": "202304"
-                },
-                {
-                    "id": "202305"
-                },
-                {
-                    "id": "202306"
-                },
-                {
-                    "id": "202307"
-                },
-                {
-                    "id": "202308"
-                },
-                {
-                    "id": "202309"
-                },
-                {
-                    "id": "202310"
-                },
-                {
-                    "id": "202311"
-                },
-                {
-                    "id": "202312"
-                },
-                {
-                    "id": "202401"
-                },
-                {
-                    "id": "202402"
-                },
-                {
-                    "id": "202403"
-                },
-                {
-                    "id": "202404"
-                },
-                {
-                    "id": "202405"
-                },
-                {
-                    "id": "202406"
-                },
-                {
-                    "id": "202407"
-                },
-                {
-                    "id": "202408"
-                },
-                {
-                    "id": "202409"
-                },
-                {
-                    "id": "202410"
-                },
-                {
-                    "id": "202411"
-                },
-                {
-                    "id": "202412"
-                }
+                {"id": "202201"},
+                {"id": "202202"},
+                {"id": "202203"},
+                {"id": "202204"},
+                {"id": "202205"},
+                {"id": "202206"},
+                {"id": "202207"},
+                {"id": "202208"},
+                {"id": "202209"},
+                {"id": "202210"},
+                {"id": "202211"},
+                {"id": "202212"},
+                {"id": "202301"},
+                {"id": "202302"},
+                {"id": "202303"},
+                {"id": "202304"},
+                {"id": "202305"},
+                {"id": "202306"},
+                {"id": "202307"},
+                {"id": "202308"},
+                {"id": "202309"},
+                {"id": "202310"},
+                {"id": "202311"},
+                {"id": "202312"},
+                {"id": "202401"},
+                {"id": "202402"},
+                {"id": "202403"},
+                {"id": "202404"},
+                {"id": "202405"},
+                {"id": "202406"},
+                {"id": "202407"},
+                {"id": "202408"},
+                {"id": "202409"},
+                {"id": "202410"},
+                {"id": "202411"},
+                {"id": "202412"}
             ],
             "organisationUnits": [],
             "categoryDimensions": [],
-            "rowDimensions": [
-                "pe"
-            ],
+            "rowDimensions": ["pe"],
             "series": [
                 {
                     "dimensionItem": "pT9yI8edS3X",
@@ -1061,9 +939,7 @@
             ]
         },
         {
-            "lastUpdated": "2023-09-26T17:52:48.231",
             "id": "ZutD4WEjeHe",
-            "created": "2023-09-26T17:52:32.674",
             "name": "ESAVI Embarazadas ",
             "showData": true,
             "fixRowHeaders": false,
@@ -1153,9 +1029,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1172,26 +1046,21 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "Tnd3C7G1g8V"
-                    }
+                    "programIndicator": {"id": "Tnd3C7G1g8V"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "periods": [],
-            "organisationUnits": [
-            ],
+            "organisationUnits": [],
             "categoryDimensions": [],
             "rowDimensions": [],
             "series": [
@@ -1202,9 +1071,7 @@
             ]
         },
         {
-            "lastUpdated": "2024-05-15T16:12:00.976",
             "id": "zRkCSeABFtR",
-            "created": "2023-09-25T21:57:31.925",
             "name": "Distribución de los ESAVI por gravedad",
             "showData": true,
             "fixRowHeaders": false,
@@ -1293,9 +1160,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1312,24 +1177,18 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "XOKlMdcw4qy"
-                    }
+                    "programIndicator": {"id": "XOKlMdcw4qy"}
                 },
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "f4bKlyoOxGA"
-                    }
+                    "programIndicator": {"id": "f4bKlyoOxGA"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -1342,9 +1201,7 @@
             "series": []
         },
         {
-            "lastUpdated": "2024-05-16T19:10:51.122",
             "id": "M48HTL7911p",
-            "created": "2023-09-20T16:28:04.274",
             "name": " Ranking de la unidad geografica por fecuencia de los ESAVI",
             "showData": true,
             "fixRowHeaders": false,
@@ -1434,9 +1291,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": true
-            },
+            "seriesKey": {"hidden": true},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1447,23 +1302,17 @@
             "axes": [],
             "translations": [],
             "yearlySeries": [],
-            "filterDimensions": [
-                "pe"
-            ],
+            "filterDimensions": ["pe"],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "pT9yI8edS3X"
-                    }
+                    "programIndicator": {"id": "pT9yI8edS3X"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -1472,9 +1321,7 @@
             "periods": [],
             "organisationUnits": [],
             "categoryDimensions": [],
-            "rowDimensions": [
-                "ou"
-            ],
+            "rowDimensions": ["ou"],
             "series": [
                 {
                     "dimensionItem": "pT9yI8edS3X",
@@ -1483,9 +1330,7 @@
             ]
         },
         {
-            "lastUpdated": "2023-09-19T15:51:03.012",
             "id": "JQgcOyuC3Ns",
-            "created": "2023-09-19T15:51:03.012",
             "name": "Muertes ESAVI",
             "showData": true,
             "fixRowHeaders": false,
@@ -1574,9 +1419,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1593,18 +1436,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "dglJHestZug"
-                    }
+                    "programIndicator": {"id": "dglJHestZug"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -1622,9 +1461,7 @@
             ]
         },
         {
-            "lastUpdated": "2023-09-05T18:12:00.562",
             "id": "Jd1jI5ti5IC",
-            "created": "2023-09-05T18:12:00.562",
             "name": "Total de Notificaiones ESAVI",
             "showData": true,
             "fixRowHeaders": false,
@@ -1713,9 +1550,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1732,18 +1567,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "pT9yI8edS3X"
-                    }
+                    "programIndicator": {"id": "pT9yI8edS3X"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -1761,9 +1592,7 @@
             ]
         },
         {
-            "lastUpdated": "2023-09-19T17:28:45.026",
             "id": "dvTFUrlfKT5",
-            "created": "2023-09-19T17:28:45.026",
             "name": "ESAVI Graves",
             "showData": true,
             "fixRowHeaders": false,
@@ -1852,9 +1681,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -1871,26 +1698,21 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "XOKlMdcw4qy"
-                    }
+                    "programIndicator": {"id": "XOKlMdcw4qy"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
             "organisationUnitGroupSetDimensions": [],
             "organisationUnitLevels": [],
             "periods": [],
-            "organisationUnits": [
-            ],
+            "organisationUnits": [],
             "categoryDimensions": [],
             "rowDimensions": [],
             "series": [
@@ -1901,9 +1723,7 @@
             ]
         },
         {
-            "lastUpdated": "2023-09-20T15:57:41.872",
             "id": "hdhvsUTagxS",
-            "created": "2023-09-20T15:57:41.872",
             "name": "Hospitalizaciones ESAVI",
             "showData": true,
             "fixRowHeaders": false,
@@ -1992,9 +1812,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -2011,18 +1829,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "X7E1yPVKFa4"
-                    }
+                    "programIndicator": {"id": "X7E1yPVKFa4"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],
@@ -2035,9 +1849,7 @@
             "series": []
         },
         {
-            "lastUpdated": "2023-09-19T17:38:53.094",
             "id": "hVuUVjL7acW",
-            "created": "2023-09-19T17:38:53.094",
             "name": "ESAVI No Graves",
             "showData": true,
             "fixRowHeaders": false,
@@ -2126,9 +1938,7 @@
                 "last12Weeks": false,
                 "last4Quarters": false
             },
-            "seriesKey": {
-                "hidden": false
-            },
+            "seriesKey": {"hidden": false},
             "reportingParams": {
                 "parentOrganisationUnit": false,
                 "reportingPeriod": false,
@@ -2145,18 +1955,14 @@
             ],
             "itemOrganisationUnitGroups": [],
             "subscribers": [],
-            "columnDimensions": [
-                "dx"
-            ],
+            "columnDimensions": ["dx"],
             "attributeValues": [],
             "optionalAxes": [],
             "favorites": [],
             "dataDimensionItems": [
                 {
                     "dataDimensionItemType": "PROGRAM_INDICATOR",
-                    "programIndicator": {
-                        "id": "f4bKlyoOxGA"
-                    }
+                    "programIndicator": {"id": "f4bKlyoOxGA"}
                 }
             ],
             "categoryOptionGroupSetDimensions": [],

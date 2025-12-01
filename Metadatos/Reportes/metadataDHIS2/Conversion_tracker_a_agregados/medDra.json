@@ -1,9 +1,7 @@
 {
     "dataSets": [
         {
-            "lastUpdated": "2024-05-23T12:52:24.208",
             "id": "rCo0EqbdwSg",
-            "created": "2024-03-21T03:54:02.330",
             "name": "Listado medDra",
             "shortName": "Listado medDra",
             "validCompleteOnly": false,
@@ -22,17 +20,11 @@
             "periodType": "Daily",
             "openFuturePeriods": 0,
             "expiryDays": 0,
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
+            "categoryCombo": {"id": "bjDvmb4bfuf"},
             "dataSetElements": [
                 {
-                    "dataElement": {
-                        "id": "YHgy9RoyhCt"
-                    },
-                    "dataSet": {
-                        "id": "rCo0EqbdwSg"
-                    }
+                    "dataElement": {"id": "YHgy9RoyhCt"},
+                    "dataSet": {"id": "rCo0EqbdwSg"}
                 }
             ],
             "compulsoryDataElementOperands": [],
@@ -47,8 +39,6 @@
     "categoryOptions": [
         {
             "code": "10024919",
-            "created": "2024-01-11T13:45:36.578",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Decaimiento",
             "id": "bnZOul6VpXV",
             "formName": "Decaimiento",
@@ -58,8 +48,6 @@
         },
         {
             "code": "10033483",
-            "created": "2024-01-11T13:46:28.849",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Dolor precordial",
             "id": "BqlcSDVY2ZL",
             "formName": "Dolor precordial",
@@ -69,8 +57,6 @@
         },
         {
             "code": "10024947",
-            "created": "2024-01-11T13:45:20.637",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Debilidad de las extremidades inferiores",
             "id": "Z0dZwm0mHi2",
             "formName": "Debilidad de las extremidades inferiores",
@@ -80,8 +66,6 @@
         },
         {
             "code": "10084693",
-            "created": "2024-01-11T13:45:31.615",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Acro-isquemia",
             "id": "ntz56wdS8eC",
             "formName": "Acro-isquemia",
@@ -91,8 +75,6 @@
         },
         {
             "code": "10019211",
-            "created": "2023-12-26T12:51:27.271",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Cefalea",
             "id": "RprErdTMzlK",
             "formName": "Cefalea",
@@ -102,8 +84,6 @@
         },
         {
             "code": "10013394",
-            "created": "2024-01-11T13:46:01.970",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Desorientado",
             "id": "jyvpczEpvNF",
             "formName": "Desorientado",
@@ -113,8 +93,6 @@
         },
         {
             "code": "10033775",
-            "created": "2024-01-11T13:47:39.346",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Parestesia",
             "id": "l1wBb3UgRiH",
             "formName": "Parestesia",
@@ -123,8 +101,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-04-25T18:57:58.422",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "18-24 años",
             "id": "Dab7glBUfkU",
             "shortName": "18-24 años",
@@ -134,8 +110,6 @@
         },
         {
             "code": "10025482",
-            "created": "2024-01-11T13:47:03.701",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Malestar",
             "id": "JzI09WWfcmh",
             "formName": "Malestar",
@@ -145,8 +119,6 @@
         },
         {
             "code": "10072637",
-            "created": "2024-01-11T13:43:15.806",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Síndrome vertiginoso",
             "id": "I9OIbfTvfF2",
             "formName": "Síndrome vertiginoso",
@@ -155,8 +127,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-04-25T18:57:48.808",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "1-17 años",
             "id": "ocUo1SHzmsE",
             "shortName": "1-17 años",
@@ -166,8 +136,6 @@
         },
         {
             "code": "10000448",
-            "created": "2024-01-11T13:45:48.323",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Dolor de miembro",
             "id": "UtblvbdI6k0",
             "formName": "Dolor de miembro",
@@ -177,8 +145,6 @@
         },
         {
             "code": "10059616",
-            "created": "2024-01-11T13:47:08.993",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Hepatopatía",
             "id": "jmGAe6BOmFg",
             "formName": "Hepatopatía",
@@ -188,8 +154,6 @@
         },
         {
             "code": "10008531",
-            "created": "2024-01-11T13:48:13.960",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Escalofríos",
             "id": "D1tROTkdZc8",
             "formName": "Escalofríos",
@@ -199,8 +163,6 @@
         },
         {
             "code": "10000055",
-            "created": "2024-01-11T13:46:40.129",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Cólico abdominal",
             "id": "VFck9nWARaa",
             "formName": "Cólico abdominal",
@@ -210,8 +172,6 @@
         },
         {
             "code": "10047862",
-            "created": "2024-01-11T13:45:59.835",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Debilidad",
             "id": "iiKWH0hislH",
             "formName": "Debilidad",
@@ -221,8 +181,6 @@
         },
         {
             "code": "10019180",
-            "created": "2024-01-11T13:47:45.215",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "HTA",
             "id": "NTT73xZkeCV",
             "formName": "HTA",
@@ -232,8 +190,6 @@
         },
         {
             "code": "10039175",
-            "created": "2024-01-11T13:46:58.256",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Escalofrío",
             "id": "vdJDJzLz2i8",
             "formName": "Escalofrío",
@@ -243,8 +199,6 @@
         },
         {
             "code": "10040019",
-            "created": "2024-01-11T13:45:45.470",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Sensorio disminuido",
             "id": "VsXXhCNLcLU",
             "formName": "Sensorio disminuido",
@@ -254,8 +208,6 @@
         },
         {
             "code": "10013573",
-            "created": "2024-01-11T13:47:48.165",
-            "lastUpdated": "2024-04-29T14:07:18.080",
             "name": "Mareo",
             "id": "U2zG8tiV7en",
             "formName": "Mareo",
@@ -265,8 +217,6 @@
         },
         {
             "code": "10000082",
-            "created": "2024-01-11T13:47:15.597",
-            "lastUpdated": "2024-04-29T14:07:18.081",
             "name": "Dolor abdominal generalizado",
             "id": "Y2norPOUafF",
             "formName": "Dolor abdominal generalizado",
@@ -276,8 +226,6 @@
         },
         {
             "code": "10003239",
-            "created": "2024-01-11T13:47:42.314",
-            "lastUpdated": "2024-04-29T14:07:18.081",
             "name": "Artralgia",
             "id": "lZ50HL1ze4S",
             "formName": "Artralgia",
@@ -286,8 +234,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-03-25T14:58:35.628",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "E-Sí",
             "id": "LzbnsM4f8KT",
             "shortName": "E-Sí",
@@ -297,8 +243,6 @@
         },
         {
             "code": "10033885",
-            "created": "2024-01-11T13:45:24.266",
-            "lastUpdated": "2024-04-29T14:07:18.081",
             "name": "Paraparesia",
             "id": "suSTp8Xyb38",
             "formName": "Paraparesia",
@@ -308,8 +252,6 @@
         },
         {
             "code": "10003658",
-            "created": "2024-01-11T13:46:46.733",
-            "lastUpdated": "2024-04-29T14:07:18.081",
             "name": "Fibrilación auricular",
             "id": "QBCYNOAt39r",
             "formName": "Fibrilación auricular",
@@ -319,8 +261,6 @@
         },
         {
             "code": "10013887",
-            "created": "2024-01-11T13:43:01.051",
-            "lastUpdated": "2024-04-29T14:07:18.081",
             "name": "Disartria",
             "id": "m0rbM53J9Mg",
             "formName": "Disartria",
@@ -330,8 +270,6 @@
         },
         {
             "code": "10003209",
-            "created": "2024-01-11T13:45:27.183",
-            "lastUpdated": "2024-04-29T14:07:18.081",
             "name": "Arteriopatía",
             "id": "PwjrzL8sPEY",
             "formName": "Arteriopatía",
@@ -340,8 +278,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-03-21T03:59:50.977",
-            "lastUpdated": "2024-04-29T14:08:09.075",
             "name": "G-Sí",
             "id": "qOdSxLlHPT4",
             "shortName": "G-Sí",
@@ -351,8 +287,6 @@
         },
         {
             "code": "10013395",
-            "created": "2024-01-11T13:48:23.454",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Desorientación",
             "id": "xzsSwa8PuwE",
             "formName": "Desorientación",
@@ -362,8 +296,6 @@
         },
         {
             "code": "10047699",
-            "created": "2024-01-11T13:47:54.094",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Vómitos",
             "id": "j59nLMNPYb8",
             "formName": "Vómitos",
@@ -373,8 +305,6 @@
         },
         {
             "code": "10011395",
-            "created": "2024-01-11T13:45:54.109",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Crisis hipertensiva",
             "id": "qh48utFGJhW",
             "formName": "Crisis hipertensiva",
@@ -384,8 +314,6 @@
         },
         {
             "code": "10066619",
-            "created": "2024-01-11T13:45:17.709",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Isquemia cardiaca aguda",
             "id": "FN9I3Xez7Qg",
             "formName": "Isquemia cardiaca aguda",
@@ -395,8 +323,6 @@
         },
         {
             "code": "10011693",
-            "created": "2024-01-11T13:48:25.583",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "ACV",
             "id": "LWdL8fu9o4G",
             "formName": "ACV",
@@ -406,8 +332,6 @@
         },
         {
             "code": "10014237",
-            "created": "2024-01-11T13:48:01.295",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Edema del párpado",
             "id": "TV2SOrgKeQF",
             "formName": "Edema del párpado",
@@ -417,8 +341,6 @@
         },
         {
             "code": "10047250",
-            "created": "2024-01-11T13:45:34.493",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Trombosis venosa (miembros)",
             "id": "iQiCvQclPt6",
             "formName": "Trombosis venosa (miembros)",
@@ -428,8 +350,6 @@
         },
         {
             "code": "10007815",
-            "created": "2024-01-11T13:45:15.618",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Cateterismo cardiaco",
             "id": "heLXwWr2CBS",
             "formName": "Cateterismo cardiaco",
@@ -439,8 +359,6 @@
         },
         {
             "code": "10054438",
-            "created": "2024-01-11T13:46:32.818",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Isquemia",
             "id": "o5XmGIs3Nrf",
             "formName": "Isquemia",
@@ -450,8 +368,6 @@
         },
         {
             "code": "10066266",
-            "created": "2024-01-11T13:48:04.205",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Aborto de embarazo ectópico",
             "id": "vPV4pot3WhB",
             "formName": "Aborto de embarazo ectópico",
@@ -461,8 +377,6 @@
         },
         {
             "code": "10028411",
-            "created": "2023-12-23T22:42:49.445",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Mialgia",
             "id": "OCA7oQfyZF9",
             "formName": "Mialgia",
@@ -472,8 +386,6 @@
         },
         {
             "code": "10018066",
-            "created": "2024-01-11T13:47:13.443",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Malestar general",
             "id": "ZHUF0Ws5oQM",
             "formName": "Malestar general",
@@ -483,8 +395,6 @@
         },
         {
             "code": "10029547",
-            "created": "2024-01-11T13:43:03.914",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Linfoma no Hodgkin",
             "id": "ZqsjUktLYOX",
             "formName": "Linfoma no Hodgkin",
@@ -494,8 +404,6 @@
         },
         {
             "code": "10016703",
-            "created": "2024-01-11T13:42:52.460",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Primer episodio convulsivo",
             "id": "bru2amRMe7h",
             "formName": "Primer episodio convulsivo",
@@ -505,8 +413,6 @@
         },
         {
             "code": "10004223",
-            "created": "2024-01-11T13:47:25.211",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Parálisis de Bell",
             "id": "OYMtJDFq99G",
             "formName": "Parálisis de Bell",
@@ -515,8 +421,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-04-25T18:58:39.272",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "60-69 años",
             "id": "FXlYp90D7ar",
             "shortName": "60-69 años",
@@ -526,8 +430,6 @@
         },
         {
             "code": "10035664",
-            "created": "2024-01-11T13:46:05.572",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Neumonía",
             "id": "v5I7PUgBhR7",
             "formName": "Neumonía",
@@ -537,8 +439,6 @@
         },
         {
             "code": "10013963",
-            "created": "2024-01-11T13:46:07.637",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Disnea",
             "id": "xUGa5iOPKMs",
             "formName": "Disnea",
@@ -548,8 +448,6 @@
         },
         {
             "code": "10000039",
-            "created": "2024-01-11T13:46:51.818",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Dolor abdominal",
             "id": "axLfcf1qPR4",
             "formName": "Dolor abdominal",
@@ -558,8 +456,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-03-21T04:00:48.142",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "E-No sabe",
             "id": "k2cwnZFiZ8m",
             "shortName": "E-No sabe",
@@ -569,8 +465,6 @@
         },
         {
             "code": "10033556",
-            "created": "2024-01-11T13:46:44.658",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Palpitación",
             "id": "Xq8wK8gA3sb",
             "formName": "Palpitación",
@@ -580,8 +474,6 @@
         },
         {
             "code": "10019465",
-            "created": "2024-01-11T13:42:56.858",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Hemiparesia",
             "id": "zUMlYPs923J",
             "formName": "Hemiparesia",
@@ -591,8 +483,6 @@
         },
         {
             "code": "10042157",
-            "created": "2024-01-11T13:45:40.321",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Deposiciones acuosas",
             "id": "alGVQz3WvB3",
             "formName": "Deposiciones acuosas",
@@ -602,8 +492,6 @@
         },
         {
             "code": "10013082",
-            "created": "2024-01-11T13:46:21.716",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Molestia",
             "id": "SJpVmpoTtZM",
             "formName": "Molestia",
@@ -613,8 +501,6 @@
         },
         {
             "code": "10009165",
-            "created": "2024-01-11T13:46:24.643",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Náuseas",
             "id": "G7Q2cSes7g9",
             "formName": "Náuseas",
@@ -624,8 +510,6 @@
         },
         {
             "code": "10000891",
-            "created": "2024-01-11T13:47:00.411",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Infarto agudo de miocardio",
             "id": "Kw55PNer3ss",
             "formName": "Infarto agudo de miocardio",
@@ -635,8 +519,6 @@
         },
         {
             "code": "10000234",
-            "created": "2023-12-18T20:39:53.180",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Aborto espontáneo",
             "id": "AAUnJRbY3yW",
             "formName": "Aborto espontáneo",
@@ -645,8 +527,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-04-25T18:58:28.485",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "50-59 años",
             "id": "PaYDBF3cLdR",
             "shortName": "50-59 años",
@@ -655,8 +535,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-04-25T18:59:04.887",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "80 o más años",
             "id": "p46elQQdyC0",
             "shortName": "80 o más años",
@@ -666,8 +544,6 @@
         },
         {
             "code": "10042661",
-            "created": "2024-01-11T13:46:26.737",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Sudoración",
             "id": "BOL0ea3dOQi",
             "formName": "Sudoración",
@@ -677,8 +553,6 @@
         },
         {
             "code": "10016256",
-            "created": "2024-01-11T13:46:34.915",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Fatiga",
             "id": "dslRAxS2weh",
             "formName": "Fatiga",
@@ -688,8 +562,6 @@
         },
         {
             "code": "10028350",
-            "created": "2024-01-11T13:45:42.542",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Debilidad muscular",
             "id": "RtZFOeFft6s",
             "formName": "Debilidad muscular",
@@ -699,8 +571,6 @@
         },
         {
             "code": "10000210",
-            "created": "2023-12-18T20:39:50.717",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Aborto",
             "id": "Wkn60KXjYG0",
             "formName": "Aborto",
@@ -710,8 +580,6 @@
         },
         {
             "code": "10018766",
-            "created": "2023-12-23T22:42:32.259",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Síndrome de Guillain Barré",
             "id": "W4Aj9cQnrS7",
             "formName": "Síndrome de Guillain Barré",
@@ -720,8 +588,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2023-12-18T20:53:16.228",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "Masculino",
             "id": "KGnQbRIQ0L9",
             "shortName": "M",
@@ -731,8 +597,6 @@
         },
         {
             "code": "10049680",
-            "created": "2023-12-23T22:42:36.012",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Cuadriparesia",
             "id": "Cve5DzHtOuV",
             "formName": "Cuadriparesia",
@@ -742,8 +606,6 @@
         },
         {
             "code": "10000709",
-            "created": "2024-01-11T13:46:12.887",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Encefalomielitis diseminada aguda",
             "id": "AF5hw2A3NRD",
             "formName": "Encefalomielitis diseminada aguda",
@@ -753,8 +615,6 @@
         },
         {
             "code": "Femenino",
-            "created": "2023-12-22T17:52:38.388",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "Femenino",
             "id": "tSOSzqF40Ws",
             "shortName": "Femenino",
@@ -765,8 +625,6 @@
         },
         {
             "code": "10008493",
-            "created": "2024-01-11T13:45:52.061",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Opresión torácica",
             "id": "Fcs4CRBnA9r",
             "formName": "Opresión torácica",
@@ -776,8 +634,6 @@
         },
         {
             "code": "10010914",
-            "created": "2024-01-11T13:46:16.598",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Convulsiones",
             "id": "xIRqV1SB1rV",
             "formName": "Convulsiones",
@@ -786,8 +642,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-03-21T04:00:33.778",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "E-No",
             "id": "JdB07nEnqL9",
             "shortName": "E-No",
@@ -797,8 +651,6 @@
         },
         {
             "code": "10002317",
-            "created": "2024-01-11T13:42:40.705",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Anencefalia",
             "id": "SpRjRbWdYPk",
             "formName": "Anencefalia",
@@ -808,8 +660,6 @@
         },
         {
             "code": "10043509",
-            "created": "2024-01-11T13:43:07.568",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Amenaza de parto prematuro",
             "id": "W7NCwHx0qEX",
             "formName": "Amenaza de parto prematuro",
@@ -819,8 +669,6 @@
         },
         {
             "code": "10007584",
-            "created": "2024-01-11T13:47:19.783",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Isquemia cardiaca",
             "id": "yOc4ZdgxTGs",
             "formName": "Isquemia cardiaca",
@@ -830,8 +678,6 @@
         },
         {
             "code": "10084268",
-            "created": "2024-01-11T13:42:47.135",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "COVID-19",
             "id": "h5ZkdOzMSTx",
             "formName": "COVID-19",
@@ -841,8 +687,6 @@
         },
         {
             "code": "10080283",
-            "created": "2024-01-11T13:47:11.130",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Rechazo alimentario",
             "id": "ErO9EfPDTAF",
             "formName": "Rechazo alimentario",
@@ -852,8 +696,6 @@
         },
         {
             "code": "10060793",
-            "created": "2024-01-11T13:47:17.698",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Enzima hepática",
             "id": "cH93MMVyLdt",
             "formName": "Enzima hepática",
@@ -863,8 +705,6 @@
         },
         {
             "code": "10033645",
-            "created": "2024-01-11T13:46:49.630",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Pancreatitis",
             "id": "pMs41gFePro",
             "formName": "Pancreatitis",
@@ -874,8 +714,6 @@
         },
         {
             "code": "10000424",
-            "created": "2023-12-23T22:42:27.095",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Dolor",
             "id": "ArIWPXdsZQK",
             "formName": "Dolor",
@@ -885,8 +723,6 @@
         },
         {
             "code": "10040560",
-            "created": "2024-01-11T13:45:29.420",
-            "lastUpdated": "2024-04-29T14:07:18.082",
             "name": "Shock",
             "id": "s39q35IHF7z",
             "formName": "Shock",
@@ -896,8 +732,6 @@
         },
         {
             "code": "10018767",
-            "created": "2024-01-11T13:48:09.425",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Síndrome de Guillain-Barré",
             "id": "BxsMm0mNl0t",
             "formName": "Síndrome de Guillain-Barré",
@@ -906,8 +740,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-04-25T18:58:18.427",
-            "lastUpdated": "2024-04-29T14:08:09.075",
             "name": "25-49 años",
             "id": "Gpr45O5MqBN",
             "shortName": "25-49 años",
@@ -916,8 +748,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-03-25T14:59:31.948",
-            "lastUpdated": "2024-04-29T14:08:09.075",
             "name": "G-No",
             "id": "oT3MZop88wO",
             "shortName": "G-No",
@@ -927,8 +757,6 @@
         },
         {
             "code": "10019468",
-            "created": "2024-01-11T13:42:58.934",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Hemiplejía",
             "id": "NYTWFR9Jg7m",
             "formName": "Hemiplejía",
@@ -938,8 +766,6 @@
         },
         {
             "code": "10012727",
-            "created": "2024-01-11T13:48:30.148",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Diarrea",
             "id": "UPiN9uJvJZZ",
             "formName": "Diarrea",
@@ -949,8 +775,6 @@
         },
         {
             "code": "10011912",
-            "created": "2024-01-11T13:42:42.943",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Muerte neonatal",
             "id": "nUTOp8OLu97",
             "formName": "Muerte neonatal",
@@ -960,8 +784,6 @@
         },
         {
             "code": "10011908",
-            "created": "2024-01-11T13:45:56.985",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Muerte fetal",
             "id": "GFkj9hGMmXi",
             "formName": "Muerte fetal",
@@ -971,8 +793,6 @@
         },
         {
             "code": "10011325",
-            "created": "2023-12-23T22:42:38.588",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Hormigueo",
             "id": "dTKnfXHXuNl",
             "formName": "Hormigueo",
@@ -981,8 +801,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-03-25T14:59:48.605",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "G-No sabe",
             "id": "h80glqe8Ph5",
             "shortName": "G-No sabe",
@@ -992,8 +810,6 @@
         },
         {
             "code": "10043607",
-            "created": "2023-12-26T12:58:46.830",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Trombosis",
             "id": "A8W8iryeJoz",
             "formName": "Trombosis",
@@ -1003,8 +819,6 @@
         },
         {
             "code": "10016191",
-            "created": "2024-01-11T13:42:45.058",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Tetralogía de Fallot",
             "id": "lpHjs9X4Y34",
             "formName": "Tetralogía de Fallot",
@@ -1014,8 +828,6 @@
         },
         {
             "code": "default",
-            "created": "2021-08-30T18:45:16.576",
-            "lastUpdated": "2021-08-30T18:45:16.587",
             "name": "default",
             "id": "xYerKDKCefk",
             "attributeValues": [],
@@ -1024,8 +836,6 @@
         },
         {
             "code": "10000217",
-            "created": "2023-12-18T20:39:57.447",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Aborto incompleto",
             "id": "gLiVQokT1h4",
             "formName": "Aborto incompleto",
@@ -1035,8 +845,6 @@
         },
         {
             "code": "10016558",
-            "created": "2023-12-23T22:42:43.717",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Fiebre",
             "id": "QFJgE1dOVpr",
             "formName": "Fiebre",
@@ -1046,8 +854,6 @@
         },
         {
             "code": "10010904",
-            "created": "2023-12-23T22:42:52.506",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Convulsión",
             "id": "uwIYfu2Rcll",
             "formName": "Convulsión",
@@ -1057,8 +863,6 @@
         },
         {
             "code": "10047340",
-            "created": "2024-01-11T13:48:32.282",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Vértigo",
             "id": "BfaNkuuySbv",
             "formName": "Vértigo",
@@ -1068,8 +872,6 @@
         },
         {
             "code": "10003119",
-            "created": "2024-01-11T13:43:12.138",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Arritmia",
             "id": "bXazgTh5yj0",
             "formName": "Arritmia",
@@ -1079,8 +881,6 @@
         },
         {
             "code": "10005143",
-            "created": "2024-01-11T13:46:55.437",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Sangrado vaginal",
             "id": "cXHE0yMH8qT",
             "formName": "Sangrado vaginal",
@@ -1090,8 +890,6 @@
         },
         {
             "code": "10060818",
-            "created": "2023-12-23T22:42:24.809",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Visión nubosa",
             "id": "AOo1IOFi9PZ",
             "formName": "Visión nubosa",
@@ -1100,8 +898,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-04-25T18:58:51.761",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "70-79 años",
             "id": "aruFwaYr3r7",
             "shortName": "70-79 años",
@@ -1111,8 +907,6 @@
         },
         {
             "code": "10046773",
-            "created": "2024-01-11T13:47:51.153",
-            "lastUpdated": "2024-04-29T14:07:18.083",
             "name": "Contracciones uterinas",
             "id": "x8qPD54jyUt",
             "formName": "Contracciones uterinas",
@@ -1121,8 +915,6 @@
             "organisationUnits": []
         },
         {
-            "created": "2024-04-25T18:57:36.039",
-            "lastUpdated": "2024-04-29T14:08:09.076",
             "name": "0-12 meses",
             "id": "YZowDMGPZiS",
             "shortName": "0-12 meses",
@@ -1133,9 +925,7 @@
     ],
     "dataElements": [
         {
-            "lastUpdated": "2024-04-29T14:07:18.223",
             "id": "YHgy9RoyhCt",
-            "created": "2024-03-21T04:43:45.279",
             "name": "Lista de MedDRA - ESAVI",
             "shortName": "Lista de MedDRA  - ESAVI",
             "aggregationType": "COUNT",
@@ -1143,9 +933,7 @@
             "valueType": "NUMBER",
             "formName": "Lista de MedDra - ESAVI",
             "zeroIsSignificant": false,
-            "categoryCombo": {
-                "id": "fJXGenoUI3w"
-            },
+            "categoryCombo": {"id": "fJXGenoUI3w"},
             "translations": [],
             "attributeValues": [],
             "legendSets": [],
@@ -1154,51 +942,33 @@
     ],
     "categoryCombos": [
         {
-            "created": "2024-03-21T04:29:36.548",
-            "lastUpdated": "2024-05-27T20:07:46.842",
             "name": "MedDRA - Sexo - Edad - Grave - Embarazo",
             "id": "fJXGenoUI3w",
             "dataDimensionType": "DISAGGREGATION",
             "skipTotal": false,
             "translations": [],
             "categories": [
-                {
-                    "id": "MdRePBAz8PD"
-                },
-                {
-                    "id": "j53Jq1FtPc5"
-                },
-                {
-                    "id": "r8mxkfMszT0"
-                },
-                {
-                    "id": "E3lzKSdX3Li"
-                },
-                {
-                    "id": "I26bga5WcD7"
-                }
+                {"id": "MdRePBAz8PD"},
+                {"id": "j53Jq1FtPc5"},
+                {"id": "r8mxkfMszT0"},
+                {"id": "E3lzKSdX3Li"},
+                {"id": "I26bga5WcD7"}
             ]
         },
         {
             "code": "default",
-            "created": "2021-08-30T18:45:16.581",
-            "lastUpdated": "2024-05-27T20:07:46.842",
             "name": "default",
             "id": "bjDvmb4bfuf",
             "dataDimensionType": "DISAGGREGATION",
             "skipTotal": false,
             "translations": [],
             "categories": [
-                {
-                    "id": "GLevLNI9wkl"
-                }
+                {"id": "GLevLNI9wkl"}
             ]
         }
     ],
     "categories": [
         {
-            "created": "2024-03-21T04:28:22.949",
-            "lastUpdated": "2024-04-29T14:08:09.103",
             "name": "Grave",
             "id": "E3lzKSdX3Li",
             "shortName": "Grave",
@@ -1207,20 +977,12 @@
             "attributeValues": [],
             "translations": [],
             "categoryOptions": [
-                {
-                    "id": "qOdSxLlHPT4"
-                },
-                {
-                    "id": "oT3MZop88wO"
-                },
-                {
-                    "id": "h80glqe8Ph5"
-                }
+                {"id": "qOdSxLlHPT4"},
+                {"id": "oT3MZop88wO"},
+                {"id": "h80glqe8Ph5"}
             ]
         },
         {
-            "created": "2024-03-21T04:28:52.700",
-            "lastUpdated": "2024-04-29T14:08:09.103",
             "name": "Embarazo ",
             "id": "I26bga5WcD7",
             "shortName": "Embarazo",
@@ -1229,20 +991,12 @@
             "attributeValues": [],
             "translations": [],
             "categoryOptions": [
-                {
-                    "id": "LzbnsM4f8KT"
-                },
-                {
-                    "id": "JdB07nEnqL9"
-                },
-                {
-                    "id": "k2cwnZFiZ8m"
-                }
+                {"id": "LzbnsM4f8KT"},
+                {"id": "JdB07nEnqL9"},
+                {"id": "k2cwnZFiZ8m"}
             ]
         },
         {
-            "created": "2023-12-18T20:54:15.945",
-            "lastUpdated": "2024-04-29T14:08:09.103",
             "name": "Sexo",
             "id": "j53Jq1FtPc5",
             "shortName": "Sexo",
@@ -1251,17 +1005,11 @@
             "attributeValues": [],
             "translations": [],
             "categoryOptions": [
-                {
-                    "id": "KGnQbRIQ0L9"
-                },
-                {
-                    "id": "tSOSzqF40Ws"
-                }
+                {"id": "KGnQbRIQ0L9"},
+                {"id": "tSOSzqF40Ws"}
             ]
         },
         {
-            "created": "2024-04-29T21:46:23.041",
-            "lastUpdated": "2024-04-29T21:46:23.041",
             "name": "MedDRA",
             "id": "MdRePBAz8PD",
             "shortName": "MedDRA",
@@ -1270,260 +1018,92 @@
             "attributeValues": [],
             "translations": [],
             "categoryOptions": [
-                {
-                    "id": "AOo1IOFi9PZ"
-                },
-                {
-                    "id": "ArIWPXdsZQK"
-                },
-                {
-                    "id": "Wkn60KXjYG0"
-                },
-                {
-                    "id": "AAUnJRbY3yW"
-                },
-                {
-                    "id": "W4Aj9cQnrS7"
-                },
-                {
-                    "id": "gLiVQokT1h4"
-                },
-                {
-                    "id": "Cve5DzHtOuV"
-                },
-                {
-                    "id": "dTKnfXHXuNl"
-                },
-                {
-                    "id": "QFJgE1dOVpr"
-                },
-                {
-                    "id": "RprErdTMzlK"
-                },
-                {
-                    "id": "OCA7oQfyZF9"
-                },
-                {
-                    "id": "uwIYfu2Rcll"
-                },
-                {
-                    "id": "SpRjRbWdYPk"
-                },
-                {
-                    "id": "nUTOp8OLu97"
-                },
-                {
-                    "id": "lpHjs9X4Y34"
-                },
-                {
-                    "id": "h5ZkdOzMSTx"
-                },
-                {
-                    "id": "bru2amRMe7h"
-                },
-                {
-                    "id": "zUMlYPs923J"
-                },
-                {
-                    "id": "NYTWFR9Jg7m"
-                },
-                {
-                    "id": "m0rbM53J9Mg"
-                },
-                {
-                    "id": "GFkj9hGMmXi"
-                },
-                {
-                    "id": "ZqsjUktLYOX"
-                },
-                {
-                    "id": "W7NCwHx0qEX"
-                },
-                {
-                    "id": "bXazgTh5yj0"
-                },
-                {
-                    "id": "I9OIbfTvfF2"
-                },
-                {
-                    "id": "heLXwWr2CBS"
-                },
-                {
-                    "id": "FN9I3Xez7Qg"
-                },
-                {
-                    "id": "suSTp8Xyb38"
-                },
-                {
-                    "id": "Z0dZwm0mHi2"
-                },
-                {
-                    "id": "PwjrzL8sPEY"
-                },
-                {
-                    "id": "s39q35IHF7z"
-                },
-                {
-                    "id": "ntz56wdS8eC"
-                },
-                {
-                    "id": "iQiCvQclPt6"
-                },
-                {
-                    "id": "bnZOul6VpXV"
-                },
-                {
-                    "id": "alGVQz3WvB3"
-                },
-                {
-                    "id": "RtZFOeFft6s"
-                },
-                {
-                    "id": "VsXXhCNLcLU"
-                },
-                {
-                    "id": "UtblvbdI6k0"
-                },
-                {
-                    "id": "Fcs4CRBnA9r"
-                },
-                {
-                    "id": "qh48utFGJhW"
-                },
-                {
-                    "id": "iiKWH0hislH"
-                },
-                {
-                    "id": "jyvpczEpvNF"
-                },
-                {
-                    "id": "v5I7PUgBhR7"
-                },
-                {
-                    "id": "xUGa5iOPKMs"
-                },
-                {
-                    "id": "xIRqV1SB1rV"
-                },
-                {
-                    "id": "AF5hw2A3NRD"
-                },
-                {
-                    "id": "A8W8iryeJoz"
-                },
-                {
-                    "id": "SJpVmpoTtZM"
-                },
-                {
-                    "id": "G7Q2cSes7g9"
-                },
-                {
-                    "id": "BOL0ea3dOQi"
-                },
-                {
-                    "id": "BqlcSDVY2ZL"
-                },
-                {
-                    "id": "o5XmGIs3Nrf"
-                },
-                {
-                    "id": "dslRAxS2weh"
-                },
-                {
-                    "id": "VFck9nWARaa"
-                },
-                {
-                    "id": "Xq8wK8gA3sb"
-                },
-                {
-                    "id": "QBCYNOAt39r"
-                },
-                {
-                    "id": "pMs41gFePro"
-                },
-                {
-                    "id": "axLfcf1qPR4"
-                },
-                {
-                    "id": "cXHE0yMH8qT"
-                },
-                {
-                    "id": "vdJDJzLz2i8"
-                },
-                {
-                    "id": "Kw55PNer3ss"
-                },
-                {
-                    "id": "JzI09WWfcmh"
-                },
-                {
-                    "id": "jmGAe6BOmFg"
-                },
-                {
-                    "id": "ErO9EfPDTAF"
-                },
-                {
-                    "id": "ZHUF0Ws5oQM"
-                },
-                {
-                    "id": "Y2norPOUafF"
-                },
-                {
-                    "id": "cH93MMVyLdt"
-                },
-                {
-                    "id": "yOc4ZdgxTGs"
-                },
-                {
-                    "id": "OYMtJDFq99G"
-                },
-                {
-                    "id": "l1wBb3UgRiH"
-                },
-                {
-                    "id": "lZ50HL1ze4S"
-                },
-                {
-                    "id": "NTT73xZkeCV"
-                },
-                {
-                    "id": "U2zG8tiV7en"
-                },
-                {
-                    "id": "x8qPD54jyUt"
-                },
-                {
-                    "id": "j59nLMNPYb8"
-                },
-                {
-                    "id": "TV2SOrgKeQF"
-                },
-                {
-                    "id": "vPV4pot3WhB"
-                },
-                {
-                    "id": "BxsMm0mNl0t"
-                },
-                {
-                    "id": "D1tROTkdZc8"
-                },
-                {
-                    "id": "xzsSwa8PuwE"
-                },
-                {
-                    "id": "LWdL8fu9o4G"
-                },
-                {
-                    "id": "UPiN9uJvJZZ"
-                },
-                {
-                    "id": "BfaNkuuySbv"
-                }
+                {"id": "AOo1IOFi9PZ"},
+                {"id": "ArIWPXdsZQK"},
+                {"id": "Wkn60KXjYG0"},
+                {"id": "AAUnJRbY3yW"},
+                {"id": "W4Aj9cQnrS7"},
+                {"id": "gLiVQokT1h4"},
+                {"id": "Cve5DzHtOuV"},
+                {"id": "dTKnfXHXuNl"},
+                {"id": "QFJgE1dOVpr"},
+                {"id": "RprErdTMzlK"},
+                {"id": "OCA7oQfyZF9"},
+                {"id": "uwIYfu2Rcll"},
+                {"id": "SpRjRbWdYPk"},
+                {"id": "nUTOp8OLu97"},
+                {"id": "lpHjs9X4Y34"},
+                {"id": "h5ZkdOzMSTx"},
+                {"id": "bru2amRMe7h"},
+                {"id": "zUMlYPs923J"},
+                {"id": "NYTWFR9Jg7m"},
+                {"id": "m0rbM53J9Mg"},
+                {"id": "GFkj9hGMmXi"},
+                {"id": "ZqsjUktLYOX"},
+                {"id": "W7NCwHx0qEX"},
+                {"id": "bXazgTh5yj0"},
+                {"id": "I9OIbfTvfF2"},
+                {"id": "heLXwWr2CBS"},
+                {"id": "FN9I3Xez7Qg"},
+                {"id": "suSTp8Xyb38"},
+                {"id": "Z0dZwm0mHi2"},
+                {"id": "PwjrzL8sPEY"},
+                {"id": "s39q35IHF7z"},
+                {"id": "ntz56wdS8eC"},
+                {"id": "iQiCvQclPt6"},
+                {"id": "bnZOul6VpXV"},
+                {"id": "alGVQz3WvB3"},
+                {"id": "RtZFOeFft6s"},
+                {"id": "VsXXhCNLcLU"},
+                {"id": "UtblvbdI6k0"},
+                {"id": "Fcs4CRBnA9r"},
+                {"id": "qh48utFGJhW"},
+                {"id": "iiKWH0hislH"},
+                {"id": "jyvpczEpvNF"},
+                {"id": "v5I7PUgBhR7"},
+                {"id": "xUGa5iOPKMs"},
+                {"id": "xIRqV1SB1rV"},
+                {"id": "AF5hw2A3NRD"},
+                {"id": "A8W8iryeJoz"},
+                {"id": "SJpVmpoTtZM"},
+                {"id": "G7Q2cSes7g9"},
+                {"id": "BOL0ea3dOQi"},
+                {"id": "BqlcSDVY2ZL"},
+                {"id": "o5XmGIs3Nrf"},
+                {"id": "dslRAxS2weh"},
+                {"id": "VFck9nWARaa"},
+                {"id": "Xq8wK8gA3sb"},
+                {"id": "QBCYNOAt39r"},
+                {"id": "pMs41gFePro"},
+                {"id": "axLfcf1qPR4"},
+                {"id": "cXHE0yMH8qT"},
+                {"id": "vdJDJzLz2i8"},
+                {"id": "Kw55PNer3ss"},
+                {"id": "JzI09WWfcmh"},
+                {"id": "jmGAe6BOmFg"},
+                {"id": "ErO9EfPDTAF"},
+                {"id": "ZHUF0Ws5oQM"},
+                {"id": "Y2norPOUafF"},
+                {"id": "cH93MMVyLdt"},
+                {"id": "yOc4ZdgxTGs"},
+                {"id": "OYMtJDFq99G"},
+                {"id": "l1wBb3UgRiH"},
+                {"id": "lZ50HL1ze4S"},
+                {"id": "NTT73xZkeCV"},
+                {"id": "U2zG8tiV7en"},
+                {"id": "x8qPD54jyUt"},
+                {"id": "j59nLMNPYb8"},
+                {"id": "TV2SOrgKeQF"},
+                {"id": "vPV4pot3WhB"},
+                {"id": "BxsMm0mNl0t"},
+                {"id": "D1tROTkdZc8"},
+                {"id": "xzsSwa8PuwE"},
+                {"id": "LWdL8fu9o4G"},
+                {"id": "UPiN9uJvJZZ"},
+                {"id": "BfaNkuuySbv"}
             ]
         },
         {
-            "created": "2024-01-15T01:15:08.667",
-            "lastUpdated": "2024-04-29T14:08:09.103",
             "name": "Edad",
             "id": "r8mxkfMszT0",
             "shortName": "Edad",
@@ -1532,47 +1112,14 @@
             "attributeValues": [],
             "translations": [],
             "categoryOptions": [
-                {
-                    "id": "YZowDMGPZiS"
-                },
-                {
-                    "id": "ocUo1SHzmsE"
-                },
-                {
-                    "id": "Dab7glBUfkU"
-                },
-                {
-                    "id": "Gpr45O5MqBN"
-                },
-                {
-                    "id": "PaYDBF3cLdR"
-                },
-                {
-                    "id": "FXlYp90D7ar"
-                },
-                {
-                    "id": "aruFwaYr3r7"
-                },
-                {
-                    "id": "p46elQQdyC0"
-                }
-            ]
-        },
-        {
-            "code": "default",
-            "created": "2021-08-30T18:45:16.579",
-            "lastUpdated": "2024-06-30T10:48:46.393",
-            "name": "default",
-            "id": "GLevLNI9wkl",
-            "shortName": "default",
-            "dataDimensionType": "DISAGGREGATION",
-            "dataDimension": false,
-            "attributeValues": [],
-            "translations": [],
-            "categoryOptions": [
-                {
-                    "id": "xYerKDKCefk"
-                }
+                {"id": "YZowDMGPZiS"},
+                {"id": "ocUo1SHzmsE"},
+                {"id": "Dab7glBUfkU"},
+                {"id": "Gpr45O5MqBN"},
+                {"id": "PaYDBF3cLdR"},
+                {"id": "FXlYp90D7ar"},
+                {"id": "aruFwaYr3r7"},
+                {"id": "p46elQQdyC0"}
             ]
         }
     ]
